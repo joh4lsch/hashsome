@@ -1,4 +1,8 @@
-# somehash
+# hashsome
+
+### Disclaimer
+
+If you do not care to read the whole documentation, well then [FAQ](#faq) you!
 
 ## Curabitur vel leo
 Eget lacus suscipit interdum interdum at ante. Fusce volutpat in purus sit amet molestie. Nullam id consequat mauris, rutrum viverra ipsum. In interdum quam vitae rhoncus cursus. Proin commodo lobortis ligula non tincidunt. Phasellus dui diam, semper eu porttitor eu, dictum tempor diam. Fusce commodo justo vitae quam tristique gravida. Donec libero risus, ultrices vel efficitur in, molestie non velit. Nunc scelerisque finibus mauris, in placerat lacus aliquam id. Sed justo lorem, elementum vitae maximus at, vestibulum vitae odio. Aenean lobortis est in tempus sodales. Pellentesque et iaculis odio, vulputate gravida ipsum.
